@@ -1,4 +1,6 @@
-public class hukusyu4 {
+package reviews.reviews1;
+
+public class Review4 {
     public static void main(String[] args) {
         int number = 5;
         String str = 88 + "88";

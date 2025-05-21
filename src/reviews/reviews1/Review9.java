@@ -1,5 +1,7 @@
+package reviews.reviews1;
+
 import java.io.*;
-public class hukusyu9 {
+public class Review9 {
     public static void main(String[] args)throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("名前を入力して下さい>");
